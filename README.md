@@ -12,12 +12,11 @@ I was born in 1984 so I'm extremely leery of government overreach and faceless m
 - 💬 Ask me about Blockchain.
 - 📫 How to reach me: [Linkedin](http://linkedin.com/in/wpandu) 
 - 😄 Politics: Libertarian Conservative
-- ⚡ Articles:
+- ⚡ Articles by me or about me:
 
 
 
-SASTROWARDOYO:
-https://forkast.news/indonesias-decentralized-island-society-makes-blockchain-a-must-have/
+https://forkast.news/indonesias-decentralized-island-society-makes-blockchain-a-must-have
 
 
 
