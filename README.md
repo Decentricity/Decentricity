@@ -14,6 +14,6 @@ I was born in 1984 so I'm extremely leery of government overreach and faceless m
 - 👯 I’m currently learning Genomic Data Science and Bioinformatics.
 - 🤔 I’m looking for help to make [Degenics](http://degenics.com) real.
 - 💬 Ask me about Blockchain.
-- 📫 How to reach me: [Linkedin](http://linkedin.com/in/wpandu) 
+- 📫 How to reach me: [Linkedin](http://linkedin.com/in/wpandu) for the professional posts, [Instagram](http://instagram.com/decentricity) for the narcissistic selfies.
 - 😄 Politics: Libertarian, Economic Conservative, Social Center-Left.
 - ⚡ Articles by me or about me at [articles.md](articles.md)
