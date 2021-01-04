@@ -13,7 +13,7 @@ I was born in 1984 so I'm extremely leery of government overreach and faceless m
 - 🌱 I’m currently working at [Blocksphere](http://blocksphere.id) and [Asosiasi Blockchain Indonesia](http://asosiasiblockchain.co.id). I also cofounded [Blockchain Zoo](http://blockchainzoo.com)
 - 👯 I’m currently learning Genomic Data Science and Bioinformatics.
 - 🤔 I’m looking for help to make [Degenics](http://degenics.com) real.
-- 💬 Ask me about Blockchain. I'm primarily an Enterprise Blockchain consultant and I've consulted for multiple govt-owned entities, private banks, and startups. No repositories here since my consulting work are mostly propreitary.
+- 💬 Ask me about Blockchain. I'm primarily an Enterprise Blockchain consultant and I've consulted for multiple govt-owned entities, private banks, and startups. No repositories here since my consulting work are mostly propreitary. I did make a Telegram / Whatsapp chatbot that puts any text you shoot at it into a Blockchain for safekeeping, [TrustPanda](http://github.com/Decentricity/TrustPanda).
 - 🏫 At school, I studied environmental engineering with a focus on both microbiology and environmental informatics. My final project back in 2008 was to create an Expert System (with Visual Prolog) for Environmental Impact Analysis -- basically an A.I. that helped you write an environmental impact report.
 - 🅱️ Programming languages: Prolog, Python, Delphi/Pascal/Embarcadero, JavaScript
 - 🌱 Low code: MIT App Inventor 2, Kodular, NodeRED
