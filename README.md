@@ -1,6 +1,6 @@
 ### Hi there 👋 Your friendly Blockchain girl here.
 
-![me](IMG_20210124_233405_109.jpg)
+![me](IMG_20210124_233405_109-01.png)
  
 <!--
 **Decentricity/Decentricity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
