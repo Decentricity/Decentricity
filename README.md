@@ -19,7 +19,7 @@ I was born in 1984 so I'm extremely leery of government overreach and faceless m
 - 🏫 At school, I studied environmental engineering with a focus on both microbiology and environmental informatics. My final project back in 2008 was to create an Expert System (with Visual Prolog) for Environmental Impact Analysis -- basically an A.I. that helped you write an environmental impact report.
 - 🅱️ Programming languages: Prolog, Python, Delphi/Pascal/Embarcadero, JavaScript
 - 🌱 Low code: MIT App Inventor 2, Kodular, NodeRED
-- 📫 How to reach me: [Linkedin](http://linkedin.com/in/wpandu) for the professional posts, [Instagram](http://instagram.com/decentricity) for the narcissistic selfies.
+- 📫 How to reach me: [Linkedin](http://linkedin.com/in/wpandu) for the professional posts, [Twitter](https://twitter.com/decentricity) for the Degen stuff, [Instagram](http://instagram.com/decentricity) for the narcissistic selfies.
 - 😄 Politics: Libertarian, Economic Conservative, Social Center-Left.
 - ⚡ Articles by me or about me at [articles.md](articles.md)
 
