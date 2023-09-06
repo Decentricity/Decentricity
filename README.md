@@ -1,4 +1,4 @@
-### Hi there 👋 Your friendly Blockchain girl here.
+### Hey dere frens i'm in brypto
 
 ![me](IMG_20210124_233405_109-01.png)
  
